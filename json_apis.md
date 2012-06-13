@@ -15,3 +15,4 @@ Noteable points:
 * Caching inside AMS
 * HTTP caching for individual resources and collections
 * Pagination with AMS
+* CORS support

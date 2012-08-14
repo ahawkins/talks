@@ -1,4 +1,6 @@
-# Abstract
+# Composing Rails Apps with Engines
+
+## Abstract
 
 Expected time: 45 minutes
 
@@ -16,7 +18,7 @@ Important Points:
 * Integrating engines with other engines
 * Testing engines in isolation
 
-# Notes
+## Notes
 
 We faced a problem in a previous version of our product. We had many
 tightly coupled dependencies to external services. This made it a pain

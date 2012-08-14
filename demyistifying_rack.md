@@ -1,4 +1,6 @@
-# Abstract
+# Demystifying Rack
+
+## Abstract
 
 Expected Length: 45 Minutes
 

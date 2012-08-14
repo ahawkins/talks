@@ -1,4 +1,6 @@
-# Abstract
+# Advanced Caching in Rails
+
+## Abstract
 
 Expected time: 45 minutes.
 
@@ -19,7 +21,7 @@ get it right. It will cover:
 * HTTP caching vs Page/Action caching
 * Tag based caching for easier expiring
 
-# Notes
+## Notes
 
 This talk is heavily based on my popular [blog post](http://broadcastingadam.com/2011/05/advanced_caching_in_rails)
 with updated content related to HTTP caching.

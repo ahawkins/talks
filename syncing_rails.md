@@ -1,4 +1,6 @@
-# Abstract
+# Syncing Rails
+
+## Abstract
 
 This talk covers the basics in creating a reusable sync service that connects an 
 application to various external systems (Google, MS Exchange, others) 
@@ -7,7 +9,7 @@ service accessible over HTTP and bundling it inside a Rails application.
 The talk covers the architecture using OOP design patterns, 
 requirements, implementations, and use cases.
 
-# Notes
+## Notes
 
 This talk covers a real life use case our company faced. We had a 
 tightly coupled exchange sync implementation. It needed to be extracted 

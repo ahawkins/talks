@@ -1,5 +1,7 @@
 # Dear God What Am I Doing? Concurrency and Parallel Processing
 
+## Abstract
+
 Expected Length: 45 minutes
 
 Here's a situation we've all be in at one point. We have a program. We

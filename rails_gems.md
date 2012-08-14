@@ -1,4 +1,6 @@
-# Abstract
+# Gem'ing Rails
+
+## Abstract
 
 Expected Time: 30 minutes
 
@@ -17,7 +19,7 @@ will cover some edge cases and complicated integrations as well.
 * Gemming best practices
 * Integrating with other common gems (ex: Resque)
 
-# Notes
+## Notes
 
 This talk sums up my experience writing a ton of gems for business and
 open source users.

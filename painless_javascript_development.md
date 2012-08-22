@@ -1,8 +1,4 @@
-# Using Ruby for Integrated Javascript Development
-
-## Abstract
-
-Expected Time: 30 Minutes
+# Painless Javascript Development
 
 Modern Javascript development is a landmine. You have to deal with code
 organization, minification, compression, and automated testing.

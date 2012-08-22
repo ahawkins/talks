@@ -1,7 +1,5 @@
 # Single Page Application Patterns
 
-Expected Time: 30 Minutes
-
 Writing complex Javascript applications comes with a unique set
 problems. We've run up into many different ones. Through our successes
 and failures we've come up with a set of patterns. These are not

@@ -1,9 +1,5 @@
 # Gem'ing Rails
 
-## Abstract
-
-Expected Time: 30 minutes
-
 Rails provides many integrations points. A lot of them seem like black
 magic. This talk aims to clear it up. It will demonstrate that most of
 what gems do is standard. However sometimes it will get fancy. This talk

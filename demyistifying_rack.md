@@ -1,9 +1,5 @@
 # Demystifying Rack
 
-## Abstract
-
-Expected Length: 45 Minutes
-
 Rack scared me. It seriously scared me. I had no idea what it was. I
 thought it was magic. I had no idea what it does. I'm going to be Rack
 preacher and remove the magic. The purpose is to explain what Rack, what

@@ -1,7 +1,5 @@
 # Javascript Testing: The Holy Grail
 
-Expected Time: 30 minutes
-
 There is a holy grail for Javascript developers: Getting a test suite up
 and running fast and have multiple browsers execute the tests. Getting
 the holy grail is damn hard. Look how much work Indiana Jones had to get

@@ -1,9 +1,5 @@
 # JSON API's
 
-## Abstract
-
-Expected Length: 45 Minutes
-
 This talk is all about JSON API's. Its main focus is on how to
 properlly generate JSON as well as test it's output. The talk uses
 ActiveModel::Serializers for all the examples. 40% of the talk will be

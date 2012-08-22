@@ -1,9 +1,5 @@
 # Composing Rails Apps with Engines
 
-## Abstract
-
-Expected time: 45 minutes
-
 This talks covers implementing a module service layer for Rail
 applications. Each service is separated into it's own engine.
 Example services: Email & SMS delivery, Email import, VOIP, among

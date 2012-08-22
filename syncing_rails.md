@@ -1,7 +1,5 @@
 # Syncing Rails
 
-## Abstract
-
 This talk covers the basics in creating a reusable sync service that connects an 
 application to various external systems (Google, MS Exchange, others) 
 over a standard interface. It describes the processing for making the 

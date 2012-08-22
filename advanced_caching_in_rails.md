@@ -1,9 +1,5 @@
 # Advanced Caching in Rails
 
-## Abstract
-
-Expected time: 45 minutes.
-
 Caching in rails is complicated. There is: Page caching, action caching,
 fragment caching, low level caching, and HTTP caching. This talk will
 guide you through basics and best practices of each. Caching is

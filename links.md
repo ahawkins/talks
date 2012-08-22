@@ -1,0 +1,3 @@
+- [Blog](http://broadcastingadam.com)
+- [Twitter](https://twitter.com/adman65)
+- [Speakerdeck](https://speakerdeck.com/u/twinturbo)

@@ -1,9 +1,5 @@
 # Dear God What Am I Doing? Concurrency and Parallel Processing
 
-## Abstract
-
-Expected Length: 45 minutes
-
 Here's a situation we've all be in at one point. We have a program. We
 want to make that program faster. We know about threads, processes,
 fibers. Then you start programming and you have no clue what to do. I
